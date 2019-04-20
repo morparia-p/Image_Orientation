@@ -123,24 +123,3 @@ Although we expect the testing phase of your classifiers to be relatively fast, 
 efficiency of your training program. Please commit your model files for each method to your git repo when
 you submit your source code, and please name them nearestmodel.txt, adaboostmodel.txt, nnetmodel.txt,
 and bestmodel.txt.
-
-## What to turn in
-
-Turn in your source code file(s) and your report by pushing to GitHub (remember toadd,commit,push) —
-we’ll grade whatever version you’ve put there as of 11:59PM on the due date. To make sure that the latest
-version of your work has been accepted by GitHub, you can log into the github.iu.edu website and browse
-the code online. Make sure to include your trained model files!
-
-For each programming problem, please include a detailed comments section at the top of your code that
-describes: (1) a description of how you formulated the problem, including precisely defining the abstrac-
-tions; (2) a brief description of how your program works; (3) a discussion of any problems, assumptions,
-simplifications, and/or design decisions you made; and (4) answers to any questions asked below in the
-assignment.
-
-Academic integrity. You and your teammates may discuss the assignment with other people at a high
-level, e.g. discussing general strategies to solve the problem, talking about Python syntax and features, etc.
-You may also consult printed and/or online references, including books, tutorials, etc., but you must cite
-these materials (e.g. in source code comments). However, the work and code that you and your partners
-submit must be your group’s own work, which your group personally designed and wrote. You may not
-share written answers or code with any other students except your own partner, nor may you possess code
-written by another student who is not your partner, either in whole or in part, regardless of format.
